@@ -31,6 +31,10 @@ public class GitDemo {
 	{
 		System.out.println("in m7 method");
 	}
+	public void m8()
+	{
+		System.out.println("In m8 method");
+	}
 	public static void main(String[] args) 
 	{
       System.out.println("Hello Selenium");
