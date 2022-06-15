@@ -59,7 +59,7 @@ public class jquery
 		{
 			   String   value=date.getText();
 			   
-		if (value.equalsIgnoreCase("19")) 
+		if (value.equalsIgnoreCase("20")) 
 		{
 			 date.click();
 		}	   
