@@ -21,7 +21,7 @@ public class GitDemo {
 	}
 	public void m5()
 	{
-		System.out.println("in m5 method");
+		System.out.println("In m5 method");
 	}
 	public static void main(String[] args) 
 	{
