@@ -19,6 +19,10 @@ public class GitDemo {
 	{
 		System.out.println("In m4 method")
 	}
+	public void m5()
+	{
+		Sysyem.out.println("Hello Rahul")
+        }
 	public static void main(String[] args) 
 	{
       System.out.println("Hello Selenium");
