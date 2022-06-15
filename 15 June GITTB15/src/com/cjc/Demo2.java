@@ -6,5 +6,10 @@ public class Demo2 {
 	{
      System.out.println("new class created");
 	}
+	
+	public void m2()
+	{
+		System.out.println("In m2 method");
+	}
 
 }
