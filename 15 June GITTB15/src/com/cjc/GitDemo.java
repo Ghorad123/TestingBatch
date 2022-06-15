@@ -25,15 +25,7 @@ public class GitDemo {
 	}
 	public void m6()
 	{
-		System.out.println("aaaa");
-         }
-	public void m7()
-	{
-		System.out.println("in m7 method");
-	}
-	public void m8()
-	{
-		System.out.println("In m8 method");
+		System.out.println("In m6 mehtod");
 	}
 	public void m9()
 	{
@@ -42,6 +34,9 @@ public class GitDemo {
 	public static void main(String[] args) 
 	{
       System.out.println("Hello Selenium");
-        }
+      
+      
+      
+	}
 
 }
