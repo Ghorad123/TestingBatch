@@ -27,6 +27,10 @@ public class GitDemo {
 	{
 		System.out.println("In m6 mehtod");
 	}
+	public void m7()
+	{
+		System.out.println("In m7");
+	}
 	public static void main(String[] args) 
 	{
       System.out.println("Hello Selenium");
