@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-18T22:05:32 IST" name="Default suite" finished-at="2022-06-18T22:05:35 IST" duration-ms="3388">
+    <groups>
+    </groups>
+    <test started-at="2022-06-18T22:05:32 IST" name="Default test" finished-at="2022-06-18T22:05:35 IST" duration-ms="3388">
+      <class name="Jpet.A">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Jpet.A@53fe15ff]" started-at="2022-06-18T22:05:28 IST" name="openBrowser" finished-at="2022-06-18T22:05:32 IST" duration-ms="3429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="enterurl()[pri:0, instance:Jpet.A@53fe15ff]" started-at="2022-06-18T22:05:32 IST" name="enterurl" finished-at="2022-06-18T22:05:35 IST" duration-ms="2809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl -->
+        <test-method is-config="true" signature="maximizebrowser()[pri:0, instance:Jpet.A@53fe15ff]" started-at="2022-06-18T22:05:35 IST" name="maximizebrowser" finished-at="2022-06-18T22:05:35 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method is-config="true" signature="pageload()[pri:0, instance:Jpet.A@53fe15ff]" started-at="2022-06-18T22:05:35 IST" name="pageload" finished-at="2022-06-18T22:05:35 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageload -->
+        <test-method signature="f1()[pri:0, instance:Jpet.A@53fe15ff]" started-at="2022-06-18T22:05:35 IST" name="f1" finished-at="2022-06-18T22:05:35 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:Jpet.A@53fe15ff]" started-at="2022-06-18T22:05:35 IST" name="screenshot" finished-at="2022-06-18T22:05:35 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+      </class> <!-- Jpet.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -20,6 +20,7 @@ public class Facebook {
 	     driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 	     Screen sc=new Screen();
 	     
+	     
 	     Pattern email=new Pattern("F:\\Sikuli.Facebook.Locater\\WhatsApp Image 2022-06-13 at 1.13.55 PM (1).jpeg");
 	     sc.type(email,"ghoradrahul@gmail.com");
 		
@@ -29,9 +30,8 @@ public class Facebook {
 
 		  Pattern click=new Pattern("F:\\Sikuli.Facebook.Locater\\WhatsApp Image 2022-06-13 at 1.13.56 PM.jpeg");
 		  sc.click(click);
-		  
 		
-		
+			
 		
 	}
 }
