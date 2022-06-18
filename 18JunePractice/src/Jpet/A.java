@@ -61,7 +61,7 @@ public class A {
     @Test()
     public void f1()
     {
-    	
+    	log.info("BY AMOL");
     }
     @AfterMethod()
     public void screenshot() throws IOException
